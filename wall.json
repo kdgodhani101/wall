@@ -1,41 +1,42 @@
 [
     {
         
-        "Static-image": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/cars%2Fdavid-leveque-esvWH-owWug-unsplash.jpg?alt=media&token=6edefe2e-1cbb-4038-9389-caf61047754e",
-        "category": 
+        "category": "car",
+        "image": 
         [
             {
-                "1": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/cars%2Falan-flack-VtfiPvSGh5s-unsplash.jpg?alt=media&token=54eea4df-c3a3-4eae-9c63-76659491b90c"
+                "image": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/cars%2Falan-flack-VtfiPvSGh5s-unsplash.jpg?alt=media&token=54eea4df-c3a3-4eae-9c63-76659491b90c"
             },
             {
-                "2": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/cars%2Fbrayden-law-iBLOPHwOHJE-unsplash.jpg?alt=media&token=7a882899-b880-4280-bade-a1098e0b08a4"
+                "image": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/cars%2Fbrayden-law-iBLOPHwOHJE-unsplash.jpg?alt=media&token=7a882899-b880-4280-bade-a1098e0b08a4"
             },
             {
-                "3": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/cars%2Fbrennen-clifford-DlUVdeI4ec4-unsplash.jpg?alt=media&token=f04fc466-071f-4f2c-8f34-68e33657ba51"
+                "image": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/cars%2Fbrennen-clifford-DlUVdeI4ec4-unsplash.jpg?alt=media&token=f04fc466-071f-4f2c-8f34-68e33657ba51"
             },
             {
-                "4": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/cars%2Fcam-bowers-cAbH8B-14Vo-unsplash.jpg?alt=media&token=6a8caee9-11b0-45ec-999a-5cc1c2dfcd06"
+                "image": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/cars%2Fcam-bowers-cAbH8B-14Vo-unsplash.jpg?alt=media&token=6a8caee9-11b0-45ec-999a-5cc1c2dfcd06"
             }
         ]
     },
     {
-        "Static-image": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/Bike%2Faustin-neill-3vQmhZQpDiY-unsplash.jpg?alt=media&token=11273dd4-1c75-4020-9b3e-1957d3898704",
-        "category": 
+        "category": "toys",
+        "image": 
         [
             {
-                "1": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/Bike%2Faditya-joshi-ZSls0qu0YIQ-unsplash.jpg?alt=media&token=2068eaf0-1fcb-4514-a834-e3be0155949d"
+                "image": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/Bike%2Faditya-joshi-ZSls0qu0YIQ-unsplash.jpg?alt=media&token=2068eaf0-1fcb-4514-a834-e3be0155949d"
             },
             {
-                "2": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/Bike%2Falex-avram--INfLX61M_k-unsplash.jpg?alt=media&token=b1b6a290-03eb-4f34-871c-d76aefc19a38"
+                "image": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/Bike%2Falex-avram--INfLX61M_k-unsplash.jpg?alt=media&token=b1b6a290-03eb-4f34-871c-d76aefc19a38"
             },
             {
-                "3": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/Bike%2Fanh-tr-n-pFq73TQlpvo-unsplash.jpg?alt=media&token=7ccd5074-2d95-4da8-b4c1-6dbdaed6a483"
+                "image": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/Bike%2Fanh-tr-n-pFq73TQlpvo-unsplash.jpg?alt=media&token=7ccd5074-2d95-4da8-b4c1-6dbdaed6a483"
             },
             {
-                "4": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/Bike%2Fbailey-mahon-dCh04SRuOuc-unsplash.jpg?alt=media&token=0634c6f7-c420-41de-aafc-7face9d683a8"
+                "image": "https://firebasestorage.googleapis.com/v0/b/wallpaper-34013.appspot.com/o/Bike%2Fbailey-mahon-dCh04SRuOuc-unsplash.jpg?alt=media&token=0634c6f7-c420-41de-aafc-7face9d683a8"
             }
         ] 
             
     }
 
 ]
+
